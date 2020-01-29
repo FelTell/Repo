@@ -7,6 +7,9 @@ int media(int num1, int num2){
 }
 
 int main(){
+    int num1, num2, aux
+    printf("Dyjite:");
+    scanf("%d %d", &num1, num2);
 
     media()
 
